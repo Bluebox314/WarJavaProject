@@ -5,4 +5,4 @@ The war card game simulated through text. Because of the simplicity of war, it c
 ![image](https://github.com/user-attachments/assets/5a5347ee-633f-4b39-8886-a25e5e9539ef)
 
 # How to Run
-This project runs out of the java console, so to run it would require and IDE. A consol project cannot be easily exported as a .jar or .exe either, but the .java files may be viewed.
+This project runs out of the java console, so to run it would require and IDE. A console project cannot be easily exported as a .jar or .exe either, but the .java files may be viewed.
